@@ -16,5 +16,9 @@ t
 t
 
 t
+<<<<<<< HEAD
 asdfasdfasdfsdf
+=======
+>>>>>>> cgq
 111
+
